@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_prueba">Hola mundo desde una etiqueta</string>
+    <string name="profile_login_text">Iniciar Sesión</string>
+    <string name="hint_usuario">Usuario</string>
+    <string name="hint_pass">Contraseña</string>
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="app_name">Proyecto Final</string>
+    <string name="app_email">Correo Electronico</string>
+    <string name="app_phone">Numero de Telefono</string>
+    <string name="text_registro">Registrar nuevo usuario</string>
+    <string name="hint_Alumno">Nombre del Alumno</string>
+    <string name="hint_AP">Apellido Paterno</string>
+    <string name="hint_AM">Apellido Materno</string>
+    <string name="hint_email">Correo Electronico</string>
+    <string name="hint_phone">Numero de Telefono</string>
+    <string name="hint_grupo">Grado y grupo</string>
+    <string name="text_enviar">Enviar Datos</string>
+    <string name="text_contrasena">Cambiar contraseña</string>
+    <string name="hint_NewPass">Nueva contraseña</string>
+    <string name="hint_ConfirmPass">Confirmar contraseña</string>
+    <string name="text_CambiarPass">Cambiar contraseña</string>
+
+    <string name="text_RecoverPass">Solicitar la contraseña</string>
+    <string name="text_btnPass">Recuperar la contraseña</string>
+
+</resources>
